@@ -12,7 +12,7 @@ This is a flask based C2 Server that can be used to control multiple instances o
 
 ## Disclaimer
 
-This code is written only for educational and research purposes and is not inteded to be used for attacking any websites,servers or projects. 
+This code is written only for educational and research purposes and is not inteded to be used for attacking any websites,servers or projects. The developer does not condone any security attack on Unauthorised systems and cannot be held liable for any damages whatsoever.
 
 ## License
 
